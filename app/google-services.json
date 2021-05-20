@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "544530073528",
+    "project_id": "fruitlia",
+    "storage_bucket": "fruitlia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544530073528:android:e37bf7b787f483cbe1b14d",
+        "android_client_info": {
+          "package_name": "com.amansiol.fruitlia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544530073528-kng5rr1aigc70eu1fritj8bbt67l5pne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXvQWAcmyVHFWEVA4jZ2jX4FvO70myRWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544530073528-kng5rr1aigc70eu1fritj8bbt67l5pne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

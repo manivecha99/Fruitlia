@@ -1,0 +1,5 @@
+0 Strawberry
+1 Papaya
+2 Mango
+3 Apple
+4 Kiwi
