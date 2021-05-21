@@ -1,5 +1,23 @@
-0 Strawberry
-1 Papaya
-2 Mango
-3 Apple
-4 Kiwi
+0 Apple
+1 Avacado
+2 Black chokeberry
+3 Blackberry
+4 Blood orange
+5 Blueberry
+6 Cherry
+7 Cranberry
+8 Fig
+9 Gogi Berry
+10 Grape
+11 Grapefruit
+12 Lemon
+13 Mango
+14 Nectarine
+15 Papaya
+16 Peach
+17 Plum
+18 Pomegranate
+19 Raspberry
+20 Strawberry
+21 Tomato
+22 Watermelon

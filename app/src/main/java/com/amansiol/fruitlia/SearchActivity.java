@@ -65,7 +65,7 @@ public class SearchActivity extends AppCompatActivity {
     HashMap<String, Float> labelMap;
     final int width=224;
     final int height=224;
-    final int labellen=5;
+    final int labellen=23;
     TextView answer;
     ProgressBar progressBar;
 
